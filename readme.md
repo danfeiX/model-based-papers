@@ -9,6 +9,8 @@
 - [A Compositional Object-Based Approach to Learning Physical Dynamics](https://arxiv.org/abs/1612.00341), M. Chang et al., ICLR 2017
 - [SPNets: Differentiable Fluid Dynamics for Deep Neural Networks](https://arxiv.org/abs/1806.06094), C. Schenck et al., CoRL 2018
 - [Augmenting Physical Simulators with Stochastic Neural Networks: Case Study of Planar Pushing and Bouncing](https://arxiv.org/abs/1808.03246), A. Ajay et al., IROS 2018
+- [Graph networks as learnable physics engines for inference and control](https://arxiv.org/abs/1806.01242), A. Sanchez-Gonzalez et al., arXiv 2018
+
 
 **Pixel to Control**
 - [Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://arxiv.org/abs/1506.07365), M. Watter and J. Springenberg et al., NIPS 2015 
@@ -36,7 +38,6 @@
 - [Deep Dynamical Modeling and Control of Unsteady Fluid Flows](https://arxiv.org/abs/1805.07472), J. Morton et al., NIPS 2018 
 - [Deep learning for universal linear embeddings of nonlinear dynamics](https://arxiv.org/abs/1712.09707), B Lusch et al., Nature Communications 2018
 - [Data-driven discovery of Koopman eigenfunctions for control](https://arxiv.org/abs/1707.01146), E. Kaiser et al., arXiv 2017
-- [Graph networks as learnable physics engines for inference and control](https://arxiv.org/abs/1806.01242), A. Sanchez-Gonzalez et al., arXiv 2018
 
 **Optimal Control**
 - [Control-Limited Differential Dynamic Programming](https://homes.cs.washington.edu/~todorov/papers/TassaICRA14.pdf), Y. Tassa et al., ICRA 2014
