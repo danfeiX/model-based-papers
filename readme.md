@@ -1,14 +1,14 @@
 **Model Learning and Model-predictive Control (MPC)**
 - [Learning model-based planning from scratch](https://arxiv.org/abs/1707.06170), R. Pascanu and Y.Li et al., Arxiv 2017
 - [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114), K. Chua et al., NIPS 2018
-- [SOLAR: Deep Structured Latent Representations for Model-Based Reinforcement Learning](https://arxiv.org/abs/1808.09105), M. Zhang et al.m arXiv 2018
+- [SOLAR: Deep Structured Latent Representations for Model-Based Reinforcement Learning](https://arxiv.org/abs/1808.09105), M. Zhang et al., arXiv 2018
 - [Interaction Networks for Learning about Objects, Relations and Physics](https://arxiv.org/abs/1612.00222), P. Battaglia et al., NIPS 2016
-- [Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids](https://arxiv.org/abs/1810.01566), Y. Li, arXiv 2018
-- [Propagation Networks for Model-Based Control Under Partial Observation](https://arxiv.org/abs/1809.11169), Y. Li, arXiv 2018
-- [Efficient Model-Based Deep Reinforcement Learning with Variational State Tabulation](https://arxiv.org/abs/1802.04325), D. Corneil, ICML 2018
-- [A Compositional Object-Based Approach to Learning Physical Dynamics](https://arxiv.org/abs/1612.00341), M. Chang, ICLR 2017
-- [SPNets: Differentiable Fluid Dynamics for Deep Neural Networks](https://arxiv.org/abs/1806.06094), C. Schenck, CoRL 2018
-- [Augmenting Physical Simulators with Stochastic Neural Networks: Case Study of Planar Pushing and Bouncing](https://arxiv.org/abs/1808.03246), A. Ajay, IROS 2018
+- [Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids](https://arxiv.org/abs/1810.01566), Y. Li et al., arXiv 2018
+- [Propagation Networks for Model-Based Control Under Partial Observation](https://arxiv.org/abs/1809.11169), Y. Li et al., arXiv 2018
+- [Efficient Model-Based Deep Reinforcement Learning with Variational State Tabulation](https://arxiv.org/abs/1802.04325), D. Corneil et al., ICML 2018
+- [A Compositional Object-Based Approach to Learning Physical Dynamics](https://arxiv.org/abs/1612.00341), M. Chang et al., ICLR 2017
+- [SPNets: Differentiable Fluid Dynamics for Deep Neural Networks](https://arxiv.org/abs/1806.06094), C. Schenck et al., CoRL 2018
+- [Augmenting Physical Simulators with Stochastic Neural Networks: Case Study of Planar Pushing and Bouncing](https://arxiv.org/abs/1808.03246), A. Ajay et al., IROS 2018
 
 **Pixel to Control**
 - [Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://arxiv.org/abs/1506.07365), M. Watter and J. Springenberg et al., NIPS 2015 
@@ -39,4 +39,4 @@
 - [Graph networks as learnable physics engines for inference and control](https://arxiv.org/abs/1806.01242), A. Sanchez-Gonzalez et al., arXiv 2018
 
 **Optimal Control**
-- [Control-Limited Differential Dynamic Programming](https://homes.cs.washington.edu/~todorov/papers/TassaICRA14.pdf), Y. Tassa, ICRA 2014
+- [Control-Limited Differential Dynamic Programming](https://homes.cs.washington.edu/~todorov/papers/TassaICRA14.pdf), Y. Tassa et al., ICRA 2014
