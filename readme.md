@@ -50,3 +50,4 @@
 - [EE263: Introduction to Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html)
 - [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
 - [Control Bootcamp](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m), Steve Brunton, 2017
+- [STUDYWOLF blog](https://studywolf.wordpress.com/), Travis DeWolf
