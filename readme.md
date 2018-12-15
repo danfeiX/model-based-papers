@@ -44,3 +44,9 @@
 
 **Optimal Control**
 - [Control-Limited Differential Dynamic Programming](https://homes.cs.washington.edu/~todorov/papers/TassaICRA14.pdf), Y. Tassa et al., ICRA 2014
+
+**Other Resources**
+- [Learning Dynamical System Models from Data](http://rll.berkeley.edu/deeprlcoursesp17/docs/week_3_lecture_1_dynamics_learning.pdf), Sergey Levine, CS 294-112: Deep Reinforcement Learning
+- [EE263: Introduction to Linear Dynamical Systems](http://ee263.stanford.edu/lectures.html)
+- [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/)
+- [Control Bootcamp](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m), Steve Brunton, 2017
