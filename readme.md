@@ -22,14 +22,14 @@
 **Model-based + Model-free**
 - [MBMF: Model-Based Priors for Model-Free Reinforcement Learning](https://arxiv.org/abs/1709.03153), S. Bansal et al., CoRL 2017
 - [Continuous deep q-learning with model-based acceleration](https://arxiv.org/abs/1603.00748), S. Gu et al., ICML 2016
-- [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999), D. Ha, NIPS 2018
+- [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999), D. Ha et al., NIPS 2018
 
 **Learned Optimal Control**
 - [Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://arxiv.org/abs/1506.07365), M. Watter and J. Springenberg et al., NIPS 2015 
 - [Robust Locally-Linear Controllable Embedding](https://arxiv.org/abs/1710.05373), E. Banijamali et al., AISTATS 2018
 - [Differentiable MPC for End-to-end Planning and Control](https://arxiv.org/abs/1810.13400), B. Amos et al., NIPS 2018
 - [Path Integral Networks: End-to-End Differentiable Optimal Control](https://arxiv.org/abs/1706.09597), Okada et al., NIPS 2017
-- [Learning to Control a Low-Cost Manipulator using Data-Efficient Reinforcement Learning](http://www.roboticsproceedings.org/rss07/p08.pdf), M. Deisenroth, RSS 2011
+- [Learning to Control a Low-Cost Manipulator using Data-Efficient Reinforcement Learning](http://www.roboticsproceedings.org/rss07/p08.pdf), M. Deisenroth et al., RSS 2011
 
 **Koopman Theory**
 - [Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition](https://arxiv.org/abs/1710.04340), N Takeishi et al., NIPS 2017 
