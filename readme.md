@@ -29,7 +29,7 @@
 - [Robust Locally-Linear Controllable Embedding](https://arxiv.org/abs/1710.05373), E. Banijamali et al., AISTATS 2018
 - [Differentiable MPC for End-to-end Planning and Control](https://arxiv.org/abs/1810.13400), B. Amos et al., NIPS 2018
 - [Path Integral Networks: End-to-End Differentiable Optimal Control](https://arxiv.org/abs/1706.09597), Okada et al., NIPS 2017
-- [http://www.roboticsproceedings.org/rss07/p08.pdf], M. Deisenroth, RSS 2011
+- [Learning to Control a Low-Cost Manipulator using Data-Efficient Reinforcement Learning](http://www.roboticsproceedings.org/rss07/p08.pdf), M. Deisenroth, RSS 2011
 
 **Koopman Theory**
 - [Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition](https://arxiv.org/abs/1710.04340), N Takeishi et al., NIPS 2017 
