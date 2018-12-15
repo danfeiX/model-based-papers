@@ -10,6 +10,7 @@
 - [SPNets: Differentiable Fluid Dynamics for Deep Neural Networks](https://arxiv.org/abs/1806.06094), C. Schenck et al., CoRL 2018
 - [Augmenting Physical Simulators with Stochastic Neural Networks: Case Study of Planar Pushing and Bouncing](https://arxiv.org/abs/1808.03246), A. Ajay et al., IROS 2018
 - [Graph networks as learnable physics engines for inference and control](https://arxiv.org/abs/1806.01242), A. Sanchez-Gonzalez et al., arXiv 2018
+- [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551), D. Hafner et al., arXiv 2018
 
 
 **Pixel to Control**
@@ -20,6 +21,8 @@
 - [Deep Spatial Autoencoders for Visuomotor Learning](https://arxiv.org/abs/1509.06113), C. Finn et al., ICRA 2016
 - [Deep Visual Foresight for Planning Robot Motion](https://arxiv.org/abs/1610.00696), C. Finn et al., ICRA 2017
 - [Learning Plannable Representations with Causal InfoGAN](https://arxiv.org/abs/1807.09341), T. Kurutach et al., NIPS 2018
+- [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551), D. Hafner et al., arXiv 2018
+
 
 **Model-based + Model-free**
 - [MBMF: Model-Based Priors for Model-Free Reinforcement Learning](https://arxiv.org/abs/1709.03153), S. Bansal et al., CoRL 2017
