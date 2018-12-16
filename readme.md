@@ -1,4 +1,4 @@
-This is the list of papers on model-based control that I have read so far. The ones that I particularly liked are marked with :star:.
+A list of papers on model-based control that I have read so far. The ones that I particularly liked are marked with :star:.
 
 **Model Learning and Model-predictive Control (MPC)**
 - [Learning model-based planning from scratch](https://arxiv.org/abs/1707.06170), R. Pascanu and Y.Li et al., Arxiv 2017
