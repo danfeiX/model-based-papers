@@ -16,13 +16,13 @@ This is the list of papers on model-based control that I have read so far. The o
 
 
 **Pixel to Control**
-- [Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://arxiv.org/abs/1506.07365), M. Watter and J. Springenberg et al., NIPS 2015 
+- [Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://arxiv.org/abs/1506.07365), M. Watter and J. Springenberg et al., NIPS 2015 :star:
 - [Robust Locally-Linear Controllable Embedding](https://arxiv.org/abs/1710.05373), E. Banijamali et al., AISTATS 2018
-- [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), S. Levine et al., JMLR 2016
+- [End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702), S. Levine et al., JMLR 2016 
 - [Unsupervised Learning for Physical Interaction through Video Prediction](https://arxiv.org/abs/1605.07157), C. Finn et al., NIPS 2016
 - [Deep Spatial Autoencoders for Visuomotor Learning](https://arxiv.org/abs/1509.06113), C. Finn et al., ICRA 2016
 - [Deep Visual Foresight for Planning Robot Motion](https://arxiv.org/abs/1610.00696), C. Finn et al., ICRA 2017
-- [Learning Plannable Representations with Causal InfoGAN](https://arxiv.org/abs/1807.09341), T. Kurutach et al., NIPS 2018
+- [Learning Plannable Representations with Causal InfoGAN](https://arxiv.org/abs/1807.09341), T. Kurutach et al., NIPS 2018 :star:
 - [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551), D. Hafner et al., arXiv 2018
 
 
