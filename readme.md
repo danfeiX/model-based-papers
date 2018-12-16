@@ -35,6 +35,17 @@
 - [Differentiable MPC for End-to-end Planning and Control](https://arxiv.org/abs/1810.13400), B. Amos et al., NIPS 2018
 - [Path Integral Networks: End-to-End Differentiable Optimal Control](https://arxiv.org/abs/1706.09597), Okada et al., NIPS 2017
 - [Learning to Control a Low-Cost Manipulator using Data-Efficient Reinforcement Learning](http://www.roboticsproceedings.org/rss07/p08.pdf), M. Deisenroth et al., RSS 2011
+- [SOLAR: Deep Structured Latent Representations for Model-Based Reinforcement Learning](https://arxiv.org/abs/1808.09105), M. Zhang et al., arXiv 2018
+
+**State Estimation**
+- [Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data](https://arxiv.org/abs/1605.06432), M. Carl et al., ICLR 2017
+- [Deep Kalman Filters](https://arxiv.org/abs/1511.05121) R. G. Krishnan et al., arXiv 2015
+- [Differentiable Particle Filters: End-to-End Learning with Algorithmic Priors](https://arxiv.org/abs/1805.11122), R. Jonschkowski et al., RSS 2018,
+- [QMDP-Net: Deep Learning for Planning under Partial Observability](https://arxiv.org/abs/1703.06692), P. Karkus et al., NIPS 2017
+- [Generative Temporal Models with Spatial Memory for Partially Observed Environments](https://arxiv.org/abs/1804.09401), M. Fraccaro et al., ICML 2018
+
+**Survey**
+- [Learning Physical Dynamical Systems for Prediction and Control: A Survey](https://www.cs.princeton.edu/courses/archive/spring18/cos598B/public/projects/LiteratureReview/COS598B_spr2018_PhysicalDynamicalSystems.pdf), J. LaChance, 2018
 
 **Koopman Theory**
 - [Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition](https://arxiv.org/abs/1710.04340), N Takeishi et al., NIPS 2017 
