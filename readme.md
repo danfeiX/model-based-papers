@@ -24,7 +24,7 @@ A list of papers on model-based control that I have read so far. The ones that I
 - [Deep Visual Foresight for Planning Robot Motion](https://arxiv.org/abs/1610.00696), C. Finn et al., ICRA 2017
 - [Learning Plannable Representations with Causal InfoGAN](https://arxiv.org/abs/1807.09341), T. Kurutach et al., NIPS 2018 :star:
 - [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551), D. Hafner et al., arXiv 2018
-
+- [SE3-Pose-Nets: Structured Deep Dynamics Models for Visuomotor Planning and Control], A. Byravan et al., ICRA 2018 :star:
 
 **Model-based + Model-free**
 - [MBMF: Model-Based Priors for Model-Free Reinforcement Learning](https://arxiv.org/abs/1709.03153), S. Bansal et al., CoRL 2017
